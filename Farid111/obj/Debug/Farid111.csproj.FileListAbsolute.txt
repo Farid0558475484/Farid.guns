@@ -1,0 +1,6 @@
+/Users/xamyak/Desktop/Farid111/Farid111/obj/Debug/Farid111.csproj.AssemblyReference.cache
+/Users/xamyak/Desktop/Farid111/Farid111/obj/Debug/Farid111.csproj.CoreCompileInputs.cache
+/Users/xamyak/Desktop/Farid111/Farid111/bin/Debug/Farid111.exe
+/Users/xamyak/Desktop/Farid111/Farid111/bin/Debug/Farid111.pdb
+/Users/xamyak/Desktop/Farid111/Farid111/obj/Debug/Farid111.exe
+/Users/xamyak/Desktop/Farid111/Farid111/obj/Debug/Farid111.pdb
